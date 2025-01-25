@@ -88,6 +88,11 @@ You are responsible for maintaining the confidentiality of your login credential
 ### Data Deletion
 If you choose to delete your account, all associated online data (e.g., Cloud Backups) will also be permanently deleted. Offline data stored locally on your device will not be affected.
 
+### Account Deletion
+Users can request the deletion of their account and associated data by contacting us at daniel.tangooapp@gmail.com. Upon request:
+- Your email address and associated account data will be permanently deleted.
+- Certain data may be retained for up to 7 years if required for tax, legal, or compliance purposes. After this period, all retained data will be permanently deleted.
+
 
 ## Third-Party Services
 
