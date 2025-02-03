@@ -28,6 +28,8 @@ The following data is stored only on your device and is not transmitted to our s
 Certain features require data to be stored online using Firebase services:
 
 - **User Accounts**: If you create an account, we collect your email address to enable authentication via Firebase Auth. This is required for optional features like Subscriptions and Cloud Backups.
+- **User Feedback**: Tangoo allows users to submit feedback to help improve the app. Feedback is collected anonymously and does not include any personally identifiable information.
+Submitted feedback is stored securely in our database and may be reviewed to enhance Tangoo’s features. By submitting feedback, you agree that we may analyze and use it to improve our services.
 
 ### Analytics Data
 To improve Tangoo, we use Firebase Analytics to collect non-personal usage data. This includes:
